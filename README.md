@@ -16,6 +16,10 @@
 
 <div align="center">
 
-| :tshirt: Default |
+| :tshirt: Nothing |
 |:-:|
 |<img src="assets/1.png">|
+
+| :tshirt: Tiled (nvim, ranger, kitty) |
+|:-:|
+|<img src="assets/2.png">|
