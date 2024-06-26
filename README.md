@@ -16,4 +16,4 @@
 
 <div align="center">
 
-##### Tokyo Night Colorscheme
+##### Subtitle
