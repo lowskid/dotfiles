@@ -4,7 +4,7 @@
 | Feature              | Package                                                 |
 | -------------------- | ------------------------------------------------------- |
 | Window Manager       | [`bspwm`](https://github.com/baskerville/bspwm)         |
-| Compositor           | [`pijulius/picom`](https://github.com/Arian8j2/picom-jonaburg-fix)   |
+| Compositor           | [`picom-jonaburg-fix`](https://github.com/Arian8j2/picom-jonaburg-fix)   |
 | Terminal             | [`alacritty`](https://github.com/alacritty/alacritty)   |
 | Shell                | [`fish`](https://fishshell.com/)                        |
 | Editor               | [`nvchad`](https://nvchad.com/)                         |
