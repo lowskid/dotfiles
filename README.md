@@ -11,3 +11,9 @@
 | Panel                | [`polybar`](https://github.com/polybar/polybar)         |
 | Notification Manager | [`dunst`](https://github.com/dunst-project/dunst)       |
 | Application Launcher | [`rofi`](https://github.com/davatorium/rofi)            |
+
+## :camera: Showcase
+
+<div align="center">
+
+##### Tokyo Night Colorscheme
