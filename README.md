@@ -18,4 +18,4 @@
 
 <img src="assets/1.png">
 
-##### Default
+##### Default.
