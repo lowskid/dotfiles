@@ -23,3 +23,7 @@
 | 🀄️ Tiled (nvim, ranger, kitty) |
 |:-:|
 |<img src="assets/2.png">|
+
+| ☁️ **Floating** |
+|:-:|
+|<img src="assets/2.png">|
